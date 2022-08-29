@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color:white;
+}
+header h1{
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: 500px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    float: left;
+
+}
+header img {
+    width: 25px;
+    float: right;
+    margin: 0%;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 1000;
+    padding:300px 50px 230px 170px;
+}
+section .sign_up{
+    margin: 10px;
+}
+.menu li{
+    display: inline;
+    margin: 10px;
+    margin-left: 20px;
+    
+}
+section .signup {
+    font-family: Arial;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90px;
+    height: 35px;
+    text-decoration: none;
+    color:black;
+    margin-left: 20px;
+    background-color:white;
+    border-width: 0.5px;
+    border-color: rgba(0, 0, 0, 0.7);
+    cursor: pointer;
+}
+section h3 {
+    margin-left: 120px;
+    color: rgba(0, 0, 0, 0.7);
+}
+section h3:hover {
+    font-weight: 500px;
+}
+
+    
+section nav {
+    margin: 10px;
+    color: rgba(0, 0, 0, 0.7);;
+}
