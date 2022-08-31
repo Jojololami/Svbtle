@@ -84,8 +84,7 @@ section nav:hover {
     width: 35px;
 }
 @media screen and (max-width:650px) and (min-width:350px){
-    
-}
+
 header h1{
     font-size: 17px;
 
@@ -125,4 +124,5 @@ section nav {
 }
 .last img {
     width: 30px;
+}
 }
